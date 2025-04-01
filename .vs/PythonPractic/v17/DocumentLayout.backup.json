@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Codes\\PythonPractic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E19EB96-61E8-41C9-B16D-F42FCC7E441F}|PythonPractic.pyproj|E:\\Codes\\PythonPractic\\PythonPractic.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E19EB96-61E8-41C9-B16D-F42FCC7E441F}|PythonPractic.pyproj|solutionrelative:PythonPractic.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PythonPractic.py",
+              "DocumentMoniker": "E:\\Codes\\PythonPractic\\PythonPractic.py",
+              "RelativeDocumentMoniker": "PythonPractic.py",
+              "ToolTip": "E:\\Codes\\PythonPractic\\PythonPractic.py",
+              "RelativeToolTip": "PythonPractic.py",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-01T12:52:00.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
